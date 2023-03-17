@@ -11,8 +11,6 @@ Screenshots: ![Screenshot](./images/Readme%20Screenshot.png)
 ![Screenshot](./images/Readme%20Preview%202.png)
 ![Screenshot](./images/Readme%20Preview%203.png)
 
-## Readme Output From Application
-
 ## Table of Contents
 * [Description](#description)
 * [Technologies](#technologies)
