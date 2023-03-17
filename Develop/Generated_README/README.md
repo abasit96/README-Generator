@@ -1,8 +1,8 @@
-# README Generator
+# Readme Generator
 ![badmath](https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=GREEN)
 
 ## Description
-A simple Readme Generator that helps users input data using Node.js
+A simple Readme Generator using Node.js
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,7 +13,7 @@ A simple Readme Generator that helps users input data using Node.js
 
 
 ## Installation
-a
+Run npm i, run node index, etc.
 
 ## License
 - MIT
@@ -21,16 +21,16 @@ a
 - [Link to License](https://opensource.org/license/mit/)
 
 ## Usage
-a
+Text
 
 ## Questions
-Have questions? Please contact me at [a](mailto:a). Visit my GitHub page at [a](https://github.com/a).
+Have questions? Please contact me at [basitpk10@yahoo.com](mailto:basitpk10@yahoo.com). Visit my GitHub page at [abasit96](https://github.com/abasit96).
 
 ## Email
-a
+basitpk10@yahoo.com
 
 ## How to Contribute
-a
+None
 
 ## Test
-a
+N/A

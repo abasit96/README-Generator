@@ -4,7 +4,12 @@
 A command-line application that dynamically generates a professional README.md file from a user's input using Inquirer.
 
 ## Demonstration
-Link to video: 
+Link to video: https://drive.google.com/file/d/16Z2D1CbqEwfS2aCEWoiTMrHkZDVil0ud/view
+
+Screenshots: ![Screenshot](./images/Readme%20Screenshot.png)
+![Screenshot](./images/Readme%20Preview%201.png)
+![Screenshot](./images/Readme%20Preview%202.png)
+![Screenshot](./images/Readme%20Preview%203.png)
 
 ## Readme Output From Application
 
